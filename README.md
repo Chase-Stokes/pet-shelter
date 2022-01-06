@@ -1,9 +1,9 @@
 # _Pet Shelter Website_
 
 #### By
-_**Chase Stokes <https://github.com/chase-stokes>**_
-_**Jake Haley <https://github.com/chase-stokes>**_
-_**Kevin Williams <https://github.com/k9w>**_
+* _**Chase Stokes <https://github.com/chase-stokes>**_
+* _**Jake Haley <https://github.com/chase-stokes>**_
+* _**Kevin Williams <https://github.com/k9w>**_
 
 #### _Animal Shelter for our furry friends_
 
