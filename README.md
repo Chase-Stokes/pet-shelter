@@ -19,9 +19,9 @@ _The Epicodus Animal Shelter strives to showcase pets for adoption._
 
 ## Setup/Installation Requirements
 
-* _Live site: <https://chase-stokes.github.io/epicodus-animal-shelter>_
+* _Live site: <https://chase-stokes.github.io/pet-shelter>_
 * _To contribute, clone the repo from:_
-* _<https://github.com/chase-stokes/epicodus-animal-shelter>_
+* _<https://github.com/chase-stokes/pet-shelter>_
 
 
 ## Known Bugs
