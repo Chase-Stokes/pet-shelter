@@ -9,20 +9,41 @@
 
 .summary {
   font-style: italic;
-
+  border: 2px solid black;
+  background-color: blanchedalmond;
+  padding:  10px;
+  margin-top: 15px;
+  margin-right: 23px;
+  margin-left: 12px;
 }
 
 .column {
   float: left;
-  width: 30%;
+  width: 28%;
   text-align: center;
   border: 2px solid black;
   background-color: blanchedalmond;
   margin: 12px;
+  padding:  10px;
+}
+
+.column img {
+  margin-top: 15px;
+  border: 2px solid rgb(54, 20, 20);
+}
+
+.column h3 {
+  color: rgb(54, 20, 20);
+  text-decoration: underline;
 }
 
 .about {
   float: left;
+  border: 2px solid black;
+  background-color: blanchedalmond;
+  padding:  10px;
+  margin-right: 23px;
+  margin-left: 12px;
 }
 
 img {
@@ -31,5 +52,6 @@ img {
 }
 
 body {
-  padding: 50px
+  padding: 50px;
+  background-image: url(https://previews.123rf.com/images/omoreau/omoreau2006/omoreau200600048/149196096-cat-and-dog-paws-seamless-pattern-for-background-of-vet-website-or-animal-shelter-promotional-materi.jpg);
 }

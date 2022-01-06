@@ -1,37 +1,38 @@
-# _{Application Name}_
+# _Pet Shelter Website_
 
-#### By _**{List of contributors}**_
+#### By
+_**Chase Stokes <https://github.com/chase-stokes>**_
+_**Jake Haley <https://github.com/chase-stokes>**_
+_**Kevin Williams <https://github.com/k9w>**_
 
-#### _{Brief description of application}_
+#### _Animal Shelter for our furry friends_
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* _HTML_
+* _CSS_
+* _Markdown_
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+_The Epicodus Animal Shelter strives to showcase pets for adoption._
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Live site: <https://chase-stokes.github.io/epicodus-animal-shelter>_
+* _To contribute, clone the repo from:_
+* _<https://github.com/chase-stokes/epicodus-animal-shelter>_
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* _No known issues yet._
+* _Please tell us if you find any!_
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+ISC
 
-Copyright (c) _date_ _author name(s)_
+_If you like our work, please leave feedback. For issues, please file a Github Issue. Pull Requests welcome._
+
+Copyright (c) _2022_ _Chase Stokes, Jake Haley, and Kevin Williams_
