@@ -23,7 +23,8 @@ page](https://www.learnhowtoprogram.com/introduction-to-programming/git-html-and
 from [our curriculum](https://learnhowtoprogram.com) on Thursday
 January 6th 2022. You can find more of our work at:_
 
-* https://github.com/lavinbrenna
+* https://github.com/chase-stokes
+* https://github.com/jakechaley
 * https://github.com/k9w
 
 ## Setup/Installation Requirements
