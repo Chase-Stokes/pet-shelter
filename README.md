@@ -17,6 +17,16 @@
 
 _The Epicodus Animal Shelter strives to showcase pets for adoption._
 
+_This is the first HTML & CSS page we made as a pair group at
+[Epicodus](https://epicodus.com). We worked [the assignment for this
+page](https://www.learnhowtoprogram.com/introduction-to-programming/git-html-and-css/practice-cascading)
+from [our curriculum](https://learnhowtoprogram.com) on Thursday
+January 6th 2022. You can find more of our work at:_
+
+* https://github.com/chase-stokes
+* https://github.com/jakechaley
+* https://github.com/k9w
+
 ## Setup/Installation Requirements
 
 * _Live site: <https://chase-stokes.github.io/pet-shelter>_
